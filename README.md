@@ -1,7 +1,7 @@
 # 🎬 Minería de Datos: Análisis de Rentabilidad y Éxito en el Cine (Blockbusters)
 
 ## 📋 Información del Proyecto
-*   **Integrantes:** [Tu Nombre] - [Nombre de tu Compañero]
+*   **Integrantes:** Vicente Vilches - Kevin Castro
 *   **Docente:** Carlos Muñoz
 *   **Dataset:** [Blockbuster Cinematic Archive (expensive_movie.csv)](https://www.kaggle.com/datasets/jaydeepahir18/hollywoods-most-expensive-blockbusters)
 
